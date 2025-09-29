@@ -132,3 +132,11 @@ This project is licensed under the **MIT License** — feel free to use, modify,
 
 ## 🙌 Contributing
 PRs welcome! Add more carriers, tips, or guides for other countries.# Mobile-Device-Security-Guide-
+
+---
+
+## Resources 
+## 📚 Additional Resources
+- [📄 Full Detailed Note](docs/detailed-note.md)
+- [📋 Carrier Contacts](docs/carrier-contacts.md)
+- [🛡️ IMEI Guide](docs/imei-guide.md)
